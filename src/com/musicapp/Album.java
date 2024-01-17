@@ -1,3 +1,5 @@
+package com.musicapp;
+
 public class Album {
     public Album(String title, int releaseDate, String artist) {
         this.title = title;
