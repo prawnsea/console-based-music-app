@@ -1,3 +1,5 @@
+package com.musicapp;
+
 public class Song {
     String title;
     double duration;

@@ -1,3 +1,5 @@
+package com.musicapp;
+
 public class Artist {
     public Artist(String name, String genre) {
         this.name = name;
